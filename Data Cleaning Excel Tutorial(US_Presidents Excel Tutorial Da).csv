@@ -1,0 +1,48 @@
+S.No.,president,Fixed,party,vice,vice-fixed,salary,date updated,date created
+1,George Washington,George Washington,Nonpartisan,John Adams, John Adams,5000.00,7/14/2021,3/4/2012
+2,john adams,John Adams,Federalist,Thomas Jefferson,Aaron Burr,10000.00,7/14/2021,3/4/2012
+3,Thomas Jefferson,Thomas Jefferson,Democratic-  Republican,    Aaron Burr,George Clinton,15000.00,7/14/2021,3/4/2012
+4,James Madison,James Madison,Democratic-  Republican,George    Clinton,Daniel D. Tompkins,20000.00,7/14/2021,3/4/2012
+5,JAMES MONROE,James Monroe,Democratic-  Republican,Daniel D. Tompkins,John C. Calhoun,25000.00,7/14/2021,3/4/2012
+6,John Quincy Adams,John Quincy Adams,Democratic-  Republican,John C. Calhoun,John C. Calhoun,30000.00,7/14/2021,3/4/2012
+7,Andrew Jackson,Andrew Jackson,Democratic,John C.     Calhoun,Richard Mentor Johnson,35000.00,7/14/2021,3/4/2012
+8,Martin Van Buren,Martin Van Buren,Democratic,Richard Mentor Johnson,John Tyler,40000.00,7/14/2021,3/4/2012
+9,William Henry Harrison,William Henry Harrison,Whig,John Tyler,Office vacant,45000.00,7/14/2021,3/4/2012
+10,john tyler,John Tyler,Whig   ,Office vacant,George M. Dallas,50000.00,7/14/2021,3/4/2012
+11,James K. Polk,James K. Polk,Democratic,George         M. Dallas,Millard Fillmore,55000.00,7/14/2021,3/4/2012
+12,Zachary Taylor,Zachary Taylor,Whig,               Millard Fillmore,Office vacant,60000.00,7/14/2021,3/4/2012
+13,Millard Fillmore,Millard Fillmore,Whig,Office vacant,William R. King,65000.00,7/14/2021,3/4/2012
+14,Franklin Pierce,Franklin Pierce,Democratic,William R. King,John C. Breckinridge,75000.00,7/14/2021,3/4/2012
+15,James Buchanan,James Buchanan,Democratic,John C. Breckinridge,Hannibal Hamlin,85000.00,7/14/2021,3/4/2012
+16,Abraham Lincoln,Abraham Lincoln,Republican,Hannibal Hamlin,Office vacant,95000.00,7/14/2021,3/4/2012
+17,Andrew Johnson,Andrew Johnson,Democratic,Office vacant,Schuyler Colfax,105000.00,7/14/2021,3/4/2012
+18,Ulysses S. Grant,Ulysses S. Grant,Republican,Schuyler Colfax,William A. Wheeler,115000.00,7/14/2021,3/4/2012
+19,Rutherford B. Hayes,Rutherford B. Hayes,Republican,William A. Wheeler,Chester A. Arthur,125000.00,7/14/2021,3/4/2012
+20,James A. Garfield,James A. Garfield,Republican,Chester A. Arthur,Office vacant,135000.00,7/14/2021,3/4/2012
+21,Chester A. Arthur,Chester A. Arthur,Republican,Office vacant,Thomas A. Hendricks,145000.00,7/14/2021,3/4/2012
+22,Grover Cleveland,Grover Cleveland,Democratic,Thomas A. Hendricks,Levi P. Morton,155000.00,7/14/2021,3/4/2012
+23,Benjamin Harrison,Benjamin Harrison,Republican,Levi P. Morton,Adlai Stevenson,165000.00,7/14/2021,3/4/2012
+24,Grover Cleveland,Grover Cleveland,Democratic,Adlai Stevenson,Garret Hobart,175000.00,7/14/2021,3/4/2012
+25,William McKinley,William Mckinley,Republican,Garret Hobart,Office vacant,185000.00,7/14/2021,3/4/2012
+26,Theodore Roosevelt,Theodore Roosevelt,Republican,Office vacant,James S. Sherman,195000.00,7/14/2021,3/4/2012
+27,William Howard Taft,William Howard Taft,Republican,James S. Sherman,Thomas R. Marshall,205000.00,7/14/2021,3/4/2012
+28,Woodrow Wilson,Woodrow Wilson,Democratic,Thomas R. Marshall,Thomas R. Marshall,225000.00,7/14/2021,3/4/2012
+28,Woodrow Wilson,Woodrow Wilson,Demorcatic,Thomas R. Marshall,Calvin Coolidge,225000.00,7/14/2021,3/4/2012
+29,Warren G. Harding,Warren G. Harding,Republican,Calvin Coolidge,Office vacant,235000.00,7/14/2021,3/4/2012
+30,Calvin Coolidge,Calvin Coolidge,Republican,Office vacant,Charles Curtis,245000.00,7/14/2021,3/4/2012
+31,Herbert Hoover,Herbert Hoover,Republican,Charles Curtis,John Nance Garner,255000.00,7/14/2021,3/4/2012
+32,Franklin D. Roosevelt,Franklin D. Roosevelt,Democratic,John Nance Garner,Office vacant,265000.00,7/14/2021,3/4/2012
+33,Harry S. Truman,,Democratic,Office vacant,Richard Nixon,275000.00,7/14/2021,3/4/2012
+34,Dwight D. Eisenhower,,Republican,Richard Nixon,Lyndon B. Johnson,285000.00,7/14/2021,3/4/2012
+35,John F. Kennedy,,Democratic,Lyndon B. Johnson,Office vacant,295000.00,7/14/2021,3/4/2012
+36,Lyndon B. Johnson,,Democratic,Office vacant,Spiro Agnew,305000.00,7/14/2021,3/4/2012
+37,Richard Nixon,,Republican,Spiro Agnew,Office vacant,315000.00,7/14/2021,3/4/2012
+38,Gerald Ford,,Republican,Office vacant,Walter Mondale,325000.00,7/14/2021,3/4/2012
+39,Jimmy Carter,,Democratic,Walter Mondale,George H. W. Bush,335000.00,7/14/2021,3/4/2012
+40,Ronald Reagan,,Republican,George H. W. Bush,Dan Quayle,345000.00,7/14/2021,3/4/2012
+41,George H. W. Bush,,Republican,Dan Quayle,Al Gore,355000.00,7/14/2021,3/4/2012
+42,Bill Clinton,,Democratic,Al Gore,Dick Cheney,365000.00,7/14/2021,3/4/2012
+43,George W. Bush,,Republican,Dick Cheney,Joe Biden,375000.00,7/14/2021,3/4/2012
+44,Barack Obama,,Democratic,Joe Biden,Mike Pence,395000.00,7/14/2021,2/1/2020
+45,Donald Trump,,Republican,Mike Pence,,405000.00,7/14/2021,2/1/2020
+,,,,,,,,
